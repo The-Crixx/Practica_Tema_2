@@ -1,6 +1,4 @@
 package TDA;
-import static DurasPruebas.PruebasGrafiquiñas.grabaFileJPG;
-import static DurasPruebas.PruebasGrafiquiñas.panelJframe;
 import EntradaDatos.EDJOPI;
 import SalidaM.*;
 import java.awt.Dimension;
